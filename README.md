@@ -1,4 +1,4 @@
-# Tanks - A 2 Player Browser Game
+# Tanks - 2 Player Browser Game
 A game where you control a tank and you try to navigate a maze and destroy your friend.
 This is a browser game inspired by one of my favorite childhood games called *Tank Trouble*, but with lots of customizability. You can change the way the entire game behaves in virtually any way you want. I have always wanted to make the tanks shoot faster, or be able to shoot more bullets. So I remade the game and added all of these settings and many, many more!
 
